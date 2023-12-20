@@ -1,6 +1,6 @@
 # OutCourse
 
-# OutCourse is an LMS Platform. This is a full stack personal project made with React, NextJs 13, TailwindCSS, Prisma, MongoDB and many other packages and tools.
+# OutCourse is an LMS Platform. This is a full stack personal project made with React, NextJs 13, TypeScript, TailwindCSS, Prisma, MongoDB and many other packages and tools.
 
 ## Key Features:
 
